@@ -1,5 +1,6 @@
 {
     "name": "M:B Paint",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
